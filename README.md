@@ -35,9 +35,7 @@ Run commands -
 ## Sample Test Results
 
 ![Alt text](https://github.com/chiranthancv95/Crypto_project/blob/main/app%20running.png?raw=true "App running in Docker")
-			Figure a - App running in Docker
-
-			FIgure b - An image of the output
+![Alt text](https://github.com/chiranthancv95/Crypto_project/blob/main/output.png?raw=true "An image of the output")
 ## Future Scope
 Possible improvements for this project are to use better and latest algorithms for generating key-gen more efficiently.
 We can use django to create an api which has better features and services compared to flask and flask_restful modules
