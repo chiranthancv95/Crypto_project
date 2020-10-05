@@ -26,7 +26,7 @@ For ease of use, the host:port numbers has been set to 0.0.0.0:80. So, we can us
 “curl -X GET --url http://0.0.0.0:80”
 
 ## Block diagram
-![Alt text](https://github.com/chiranthancv95/Crypto_project/blob/main/app%20running.png?raw=true "App running in Docker")
+![Alt text](https://github.com/chiranthancv95/Crypto_project/blob/main/block_diagram_for%20cryptography_project.png?raw=true)
 ## Instructions
 Run commands -
  “docker pull chiru1995/crypto_project”
