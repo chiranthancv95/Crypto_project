@@ -33,6 +33,7 @@ Run commands -
 “docker run -p 80:80 chiru1995/crypto_project”
 “curl -X GET --url http://0.0.0.0:80” (This command to be run in a different terminal to get the output)
 ## Sample Test Results
+![alt text](https://github.com/chiranthancv95/Crypto_project/blob/master/app running.png?raw=true)
 			Figure a - App running in Docker
 
 			FIgure b - An image of the output
