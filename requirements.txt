@@ -1,0 +1,4 @@
+pycrypto
+flask
+flask_restful
+gunicorn
